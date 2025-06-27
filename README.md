@@ -34,7 +34,7 @@ This project is a Python-based security tool that helps users evaluate the stren
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/password-strength-analyzer.git
+git clone https://github.com/ronaldronu/password-strength-analyzer.git
 cd password-strength-analyzer
 
 # Install the required library
